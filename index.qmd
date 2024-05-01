@@ -18,7 +18,7 @@ about:
 
 ## Areas of Expertise and Interest
 Statistical Modeling, Machine Learning, Scientific Computing, Cyber Security,
-Data Visualization, Data Management, Project Management
+Data Visualization, Data Management, Project Management, Open Science, Social Justice
 
 
 ## Experiences
@@ -29,12 +29,21 @@ Data Visualization, Data Management, Project Management
 
 **Senior Software Engineer** (2020-2021) | Oceanit
 
-**Senior Software Engineer** (2011-2012) | ParWinr
+**Supervisory Software Engineer** (2011-2012) | ParWinr Inc
 
 **Application Developer** (2005-2009) | NOAA PIFSC
 
 **Data Management Specialist** (2002-2005) | NOAA PIFSC
 
+## Volunteer Work
+
+**Data Scientist** (2012-Present) Statistics Without Borders
+
+**Co-founder** (2018) Hawaii Women in Tech
+
+**Instructor** (2017) for women in prison in Hawaii
+
+**Facilitator** (2016) Girls Who Code 
 
 
 ## Education
@@ -43,4 +52,4 @@ Data Visualization, Data Management, Project Management
 
 *Thesis: "Modeling Bobcat Movements in Relation to Landscape Features Using Classical Movement Models and Artificial Neural Networks with Genetic Algorithms"*
 
-**B.S. Computer Science, Statistics** (2001)  | University of California, Davis 
+**B.S. Computer Science, Statistics** (2000)  | University of California, Davis 
