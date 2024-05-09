@@ -2,14 +2,16 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   title: "Sunny Hospital"
   navbar:
     left:
       - href: index.qmd
         text: Home
-
-
+    right:
+      - icon: github
+        href: https://github.com/shospital/shospital.github.io
 format:
   html:
     theme: flatly
